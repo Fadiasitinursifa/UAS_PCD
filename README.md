@@ -10,9 +10,11 @@ Tugas UAS kelompok Pengolahan Citra Digital (Fadia Siti Nursifa-2006076 dan Rika
 4. Perancangan model CNN
 5. Pelatihan dan Pengujian
 6. Hasil Akurasi
+  
   Data yang digunakan bersumber dari kaggle, dengan jumlah data sebanyak 811 dengan 6 classHasil pengujian mendapatkan akurasi terbaik sebesar 72,39 %. Berdasarkan hasil percobaan dan pengujian, di dapatkan kesimpulan sebagai berikut :
 1. Hasil klasifikasi citra buang menggunakakn CNN pada juranl di dapatkan akurasi sebesar 91,42%
 2. Hasil modifikasi dengan dataset yang berbeda di dapatkan hasil akurasi terbaik sebesar 72,39%
+  
   Dengan begitu, dapat di simpulkan bahwa Metode Convolutional Neural Network memiliki hasil yang 
 paling signifikan dalam pengenalan citra digital. Hal tersebut dikarenakan CNN diimplementasikan
 berdasarkan sistem pengenalan citra pada visual cortex manusia
